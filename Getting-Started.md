@@ -8,7 +8,7 @@ The following is training recommended by CS.
 - *Timeframe:* June/July
 
 | Training Title | Duration | Description | 
-| --- | --- | --- | --- | 
+| --- | --- | --- |
 | Workday HCM Core Concepts | 2h | Hands-on training on HCM Core Concepts and the end-user experience of Workday HCM |
 | Workday FINS Core Concepts| 2h | Hands-on training on HCM Core Concepts and the end-user experience of Workday FINS |
 
