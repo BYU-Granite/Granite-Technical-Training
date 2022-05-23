@@ -18,7 +18,7 @@ The following is training recommended by CS.
 - Timeframe:* Now
 
 | Training Title | Duration | Description | Link |
-| --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- |
 | Organizations | 7:36 | What are organizations in Workday? | https://vimeo.com/513579452/053ea122f7 |
 | Security | 7:30 | Workday Security Overview | https://vimeo.com/525240022/c10c12f817 |
 | Security Groups and Roles | 6:27 | Workday Security Review | https://vimeo.com/623795418/2e438a7cf7 |
