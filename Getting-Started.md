@@ -2,6 +2,8 @@
 
 The following is training recommended by CS.
 
+You will need to be enrolled in the [Workday Learning Center](https://wd5.myworkday.com/workday/d/inst/1$17815/17815$2063.htmld)
+
 # OC&T Led Training
 
 - *Format:* In-Person
