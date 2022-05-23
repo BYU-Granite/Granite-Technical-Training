@@ -15,7 +15,7 @@ The following is training recommended by CS.
 # Workday Decision Videos
 
 - *Format:* Self-paced video
-- Timeframe:* Now
+- *Timeframe:* Now
 
 | Training Title | Duration (minutes) | Description | Link |
 | --- | --- | --- | --- |
@@ -26,7 +26,7 @@ The following is training recommended by CS.
 # Workday Delivered Training
 
 - *Format:* Online course
-- Timeframe:* ASAP
+- *Timeframe:* ASAP
 
 These remote online courses are recommended for all technical team members. 
 
