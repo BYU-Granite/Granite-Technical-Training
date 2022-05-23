@@ -30,7 +30,7 @@ The following is training recommended by CS.
 
 | Training Title | Duration (hours) | Type | Description | Link |
 | --- | --- | --- | --- | --- | 
-| HCM Fundamentals | 32 | In-Person | | https://community.workday.com/node/82137 |
+| HCM Fundamentals | 32 | In-Person | Manage basic events and tasks in Workday Human Capital Management (HCM). | https://community.workday.com/node/82137 |
 | Financials Fundamentals | 32 | Independent | | |
 | Configurable Security Fundamentals | 8 | Independent | | |
 | Report Writer | 12 | Indepedent | | |
