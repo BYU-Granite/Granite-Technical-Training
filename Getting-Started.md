@@ -17,7 +17,7 @@ The following is training recommended by CS.
 - *Format:* Self-paced video
 - Timeframe:* Now
 
-| Training Title | Duration | Description | Link |
+| Training Title | Duration (minutes) | Description | Link |
 | --- | --- | --- | --- |
 | Organizations | 7:36 | What are organizations in Workday? | https://vimeo.com/513579452/053ea122f7 |
 | Security | 7:30 | Workday Security Overview | https://vimeo.com/525240022/c10c12f817 |
@@ -28,19 +28,19 @@ The following is training recommended by CS.
 - *Format:* Online course
 - Timeframe:* ?? 
 
-| Training Title | Duration | Type | Description | Link |
+| Training Title | Duration (hours) | Type | Description | Link |
 | --- | --- | --- | --- | --- | 
-| HCM Fundamentals | 4 | In-Person | | |
-| Financials Fundamentals | 4 | Independent | | |
-| Configurable Security Fundamentals | 1 | Independent | | |
-| Report Writer | 1.5 | Indepedent | | |
-| Calculated Fields | 1 | Independent | | | 
-| Advanced Reporting and Analytics | 1.5 | Virtual | | |
-| Composite Reporting Fundamentals | 1.5 | Virtual | | |
+| HCM Fundamentals | 32 | In-Person | | https://community.workday.com/node/82137 |
+| Financials Fundamentals | 32 | Independent | | |
+| Configurable Security Fundamentals | 8 | Independent | | |
+| Report Writer | 12 | Indepedent | | |
+| Calculated Fields | 8 | Independent | | | 
+| Advanced Reporting and Analytics | 12 | Virtual | | |
+| Composite Reporting Fundamentals | 12 | Virtual | | |
 | Workday Integration Overview | 0 | On demand | | | 
-| Workday Integration System Fundamentals | 1 | Virtial | | |
-| Core Connectors & Doc Transformation | 1.5 | Virtual | | |
+| Workday Integration System Fundamentals | 8 | Virtial | | |
+| Core Connectors & Doc Transformation | 12 | Virtual | | |
 | Introducting Workday Studio | 0 | On demand | | |
-| Introduction to Workday Studio | 1 | Virtual | | |
+| Introduction to Workday Studio | 8 | Virtual | | |
 
 
