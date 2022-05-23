@@ -26,11 +26,13 @@ The following is training recommended by CS.
 # Workday Delivered Training
 
 - *Format:* Online course
-- Timeframe:* ?? 
+- Timeframe:* ASAP
+
+These remote online courses are recommended for all technical team members. 
 
 | Training Title | Duration (hours) | Type | Description | Link |
 | --- | --- | --- | --- | --- | 
-| HCM Fundamentals | 32 | In-Person | Manage basic events and tasks in Workday Human Capital Management (HCM). | https://community.workday.com/node/82137 |
+| HCM Fundamentals | 32 | Independent | Manage basic events and tasks in Workday Human Capital Management (HCM). | https://community.workday.com/node/82137 |
 | Financials Fundamentals | 32 | Independent | Making decisions on how to manage their business within Workday | https://community.workday.com/node/82136 |
 | Configurable Security Fundamentals | 10 | Independent | Configuring and administering user security in Workday | https://community.workday.com/node/82297 |
 | Report Writer | 15 | Indepedent | Creating reports for organizations using the Workday Report Writer tool | https://community.workday.com/node/82308 |
