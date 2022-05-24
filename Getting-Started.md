@@ -32,7 +32,7 @@ You will need to be enrolled in the [Workday Learning Center](https://wd5.mywork
 
 These remote online courses are recommended for all technical team members. 
 
-Taking the full set here will require 18 training credits. 
+Taking the full set will require 18 training credits. 
 
 | Training Title | Duration (hours) | Type | Credits | Description | Link |
 | --- | --- | --- | --- | -------- | --- |
