@@ -34,9 +34,9 @@ These remote online courses are recommended for all technical team members.
 
 | Training Title | Duration (hours) | Type | Credits | Description | Link |
 | --- | --- | --- | --- | --- | --- |
-| HCM Fundamentals | 32 | Independent | 4 | Manage basic events and tasks in Workday Human Capital Management (HCM). | https://wd5.myworkday.com/workday/learning/course/1f0e3583cb5b0168b4b0a3b55e25bca1?type=9882927d138b100019b6a2df1a46018b |
-| Financials Fundamentals | 32 | Independent |  | Making decisions on how to manage their business within Workday | https://community.workday.com/node/82136 |
-| Configurable Security Fundamentals | 10 | Independent | | Configuring and administering user security in Workday | https://community.workday.com/node/82297 |
+| HCM Fundamentals | 32 | Independent | 4 | Manage basic events and tasks in Workday Human Capital Management (HCM). | https://wd5.myworkday.com/workday/learning/course/1f0e3583cb5b0168b4b0a3b55e25bca1 |
+| Financials Fundamentals | 32 | Independent | 4 | Making decisions on how to manage their business within Workday | https://wd5.myworkday.com/workday/learning/course/1f0e3583cb5b010c23dde6b35e25aca1 |
+| Configurable Security Fundamentals | 10 | Independent | 1 | Configuring and administering user security in Workday | https://wd5.myworkday.com/workday/learning/course/749c357cd05a01fb7c5136b35e255790 |
 | Report Writer | 15 | Indepedent |  | Creating reports for organizations using the Workday Report Writer tool | https://community.workday.com/node/82308 |
 | Calculated Fields | 10 | Independent | | Create calculated fields that manipulate dates and text, evaluate conditions, work with data from related objects, and perform arithmetic calculations | https://community.workday.com/node/617467 | 
 | Advanced Reporting and Analytics | 15 | Virtual  | | Learn how to build matrix reports and add reports to custom dashboards | https://community.workday.com/node/860926 |
