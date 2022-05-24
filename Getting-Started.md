@@ -14,7 +14,7 @@ You will need to be enrolled in the [Workday Learning Center](https://wd5.mywork
 | Workday HCM Core Concepts | 2h | Hands-on training on HCM Core Concepts and the end-user experience of Workday HCM |
 | Workday FINS Core Concepts| 2h | Hands-on training on HCM Core Concepts and the end-user experience of Workday FINS |
 
-# Workday Decision Videos
+# Workday Introductory Videos
 
 - *Format:* Self-paced video
 - *Timeframe:* Now
