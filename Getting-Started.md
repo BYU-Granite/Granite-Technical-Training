@@ -22,6 +22,8 @@ You will need to be enrolled in the [Workday Learning Center](https://wd5.mywork
 | Training Title | Duration (minutes) | Description | Link |
 | --- | --- | --- | --- |
 | Organizations | 7:36 | What are organizations in Workday? | https://vimeo.com/513579452/053ea122f7 |
+| Supervisory Organizations | 11:51 | What are supervisory organizations? | https://vimeo.com/525877690/a5375179b8 |
+| Cost Centers (Platform Deployment) | 12:54 | What are cost center? | https://vimeo.com/475282083/d90de34333 |
 | Security | 7:30 | Workday Security Overview | https://vimeo.com/525240022/c10c12f817 |
 | Security Groups and Roles | 6:27 | Workday Security Review | https://vimeo.com/623795418/2e438a7cf7 |
 
