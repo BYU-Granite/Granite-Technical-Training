@@ -32,9 +32,9 @@ You will need to be enrolled in the [Workday Learning Center](https://wd5.mywork
 
 These remote online courses are recommended for all technical team members. 
 
-| Training Title | Duration (hours) | Type | Description | Link |
+| Training Title | Duration (hours) | Type | Credits | Description | Link |
 | --- | --- | --- | --- | --- | 
-| HCM Fundamentals | 32 | Independent | Manage basic events and tasks in Workday Human Capital Management (HCM). | https://community.workday.com/node/82137 |
+| HCM Fundamentals | 32 | Independent | 4 | Manage basic events and tasks in Workday Human Capital Management (HCM). | [https://community.workday.com/node/82137](https://wd5.myworkday.com/workday/learning/course/1f0e3583cb5b0168b4b0a3b55e25bca1?type=9882927d138b100019b6a2df1a46018b) |
 | Financials Fundamentals | 32 | Independent | Making decisions on how to manage their business within Workday | https://community.workday.com/node/82136 |
 | Configurable Security Fundamentals | 10 | Independent | Configuring and administering user security in Workday | https://community.workday.com/node/82297 |
 | Report Writer | 15 | Indepedent | Creating reports for organizations using the Workday Report Writer tool | https://community.workday.com/node/82308 |
